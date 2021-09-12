@@ -1,0 +1,16 @@
+C:\Users\PICHAU\source\repos\BieteBankComposto\BieteBankComposto\bin\Debug\net5.0\BieteBankComposto.exe
+C:\Users\PICHAU\source\repos\BieteBankComposto\BieteBankComposto\bin\Debug\net5.0\BieteBankComposto.deps.json
+C:\Users\PICHAU\source\repos\BieteBankComposto\BieteBankComposto\bin\Debug\net5.0\BieteBankComposto.runtimeconfig.json
+C:\Users\PICHAU\source\repos\BieteBankComposto\BieteBankComposto\bin\Debug\net5.0\BieteBankComposto.runtimeconfig.dev.json
+C:\Users\PICHAU\source\repos\BieteBankComposto\BieteBankComposto\bin\Debug\net5.0\BieteBankComposto.dll
+C:\Users\PICHAU\source\repos\BieteBankComposto\BieteBankComposto\bin\Debug\net5.0\ref\BieteBankComposto.dll
+C:\Users\PICHAU\source\repos\BieteBankComposto\BieteBankComposto\bin\Debug\net5.0\BieteBankComposto.pdb
+C:\Users\PICHAU\source\repos\BieteBankComposto\BieteBankComposto\obj\Debug\net5.0\BieteBankComposto.csprojAssemblyReference.cache
+C:\Users\PICHAU\source\repos\BieteBankComposto\BieteBankComposto\obj\Debug\net5.0\BieteBankComposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PICHAU\source\repos\BieteBankComposto\BieteBankComposto\obj\Debug\net5.0\BieteBankComposto.AssemblyInfoInputs.cache
+C:\Users\PICHAU\source\repos\BieteBankComposto\BieteBankComposto\obj\Debug\net5.0\BieteBankComposto.AssemblyInfo.cs
+C:\Users\PICHAU\source\repos\BieteBankComposto\BieteBankComposto\obj\Debug\net5.0\BieteBankComposto.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\source\repos\BieteBankComposto\BieteBankComposto\obj\Debug\net5.0\BieteBankComposto.dll
+C:\Users\PICHAU\source\repos\BieteBankComposto\BieteBankComposto\obj\Debug\net5.0\ref\BieteBankComposto.dll
+C:\Users\PICHAU\source\repos\BieteBankComposto\BieteBankComposto\obj\Debug\net5.0\BieteBankComposto.pdb
+C:\Users\PICHAU\source\repos\BieteBankComposto\BieteBankComposto\obj\Debug\net5.0\BieteBankComposto.genruntimeconfig.cache
